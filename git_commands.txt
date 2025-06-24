@@ -1,0 +1,11 @@
+git clone <url>
+git status
+git log
+git add <file>
+git commit -m "message"
+git commit -am "message"
+git push
+git pull
+git reset --hard <commit>
+git reset --hard origin/master
+
