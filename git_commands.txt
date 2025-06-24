@@ -9,5 +9,5 @@ git pull
 git reset --hard <commit>
 git reset --hard origin/master
 git branch
-git checkout -b "name"
-
+git checkout -b <name>
+git checkout <name>
